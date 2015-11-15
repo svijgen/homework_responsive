@@ -361,15 +361,30 @@ footer p {
   #sidebar {
     font-size: 24px;
     margin-left: 25px;
+    /*display: inline-block;*/
+    text-align: center;
+    float: both;
+    margin-left: 250px;
+    margin-bottom: 0px;
   }
+
   #sidebar h3 {
    
     font-size: 28px;
   }
 
-  
+  /*.aside_one {
+    display: inline-block;
+  }
 
+  .aside_two {
+    display: inline-block;
+  }*/
 
+  .ad {
+    height: 100px;
+    width: 100px;
+  }
 }
 
 
